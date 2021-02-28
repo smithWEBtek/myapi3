@@ -1,0 +1,21 @@
+  <hr />
+  <figure class="highcharts-figure">
+    <div id="container"></div>
+    <table id="datatable">
+      <thead>
+        <% @patients_body = @patients.each do |patient| %>
+          <tr>
+            <td><%= patient.diagnosis %>
+            </tr>
+          <% end %>
+      </thead>
+        <tr>
+          <% @patients.each do |patient| %>
+            <th><%= patient.first_name %></th>
+            <td><%= patient.diagnosis %>
+            </tr>
+          <% end %>
+        <tbody>
+        </tbody>
+      </table>
+    </figure>
