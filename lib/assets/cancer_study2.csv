@@ -1,0 +1,101 @@
+id,first_name,last_name,email,category,age,diabetes pa hist?,diabetes ma hist?,heart disease pa hist?,heart disease ma hist?
+1,Douglas,Gaskin,dgaskin0@ucsd.edu,Endometrial,9,false,false,false,false
+2,Kevina,Measom,kmeasom1@netlog.com,Melanoma,25,true,true,false,true
+3,Hillary,Bownd,hbownd2@wsj.com,Thyroid,39,true,true,true,false
+4,Roosevelt,Gutierrez,rgutierrez3@reddit.com,Melanoma,25,true,true,false,true
+5,Norris,Pass,npass4@nps.gov,Pancreatic,46,true,false,true,false
+6,Lorinda,Tysall,ltysall5@51.la,Kidney,21,false,true,false,true
+7,Loydie,Bowman,lbowman6@technorati.com,Kidney,92,true,true,false,true
+8,Bran,Rothermel,brothermel7@businesswire.com,Thyroid,69,false,true,false,true
+9,Glynn,Moxstead,gmoxstead8@paginegialle.it,Endometrial,21,false,true,false,true
+10,Augy,Howatt,ahowatt9@thetimes.co.uk,Liver,8,true,false,false,true
+11,Yevette,Josefsohn,yjosefsohna@alexa.com,Colon and Rectal,100,false,false,true,false
+12,Raul,Petris,rpetrisb@bigcartel.com,Liver,83,true,true,false,true
+13,Zeb,Keningham,zkeninghamc@behance.net,Thyroid,80,true,false,false,true
+14,Idette,Shafe,ishafed@pbs.org,Colon and Rectal,31,true,true,true,true
+15,Caressa,Napoleon,cnapoleone@eepurl.com,Bladder,6,true,true,false,false
+16,Delilah,Lammiman,dlammimanf@nps.gov,Colon and Rectal,90,true,false,false,true
+17,Connor,Couroy,ccouroyg@webs.com,Non-Hodgkin Lymphoma,55,true,true,false,false
+18,Eyde,Neillans,eneillansh@google.pl,Kidney,72,false,false,true,true
+19,Chloette,Spindler,cspindleri@artisteer.com,Liver,56,false,false,true,false
+20,Rodrick,Ord,rordj@cbc.ca,Liver,88,true,false,false,true
+21,Malachi,Casassa,mcasassak@phpbb.com,Prostate,85,false,true,true,true
+22,Dilan,Dredge,ddredgel@rambler.ru,Colon and Rectal,83,true,false,true,false
+23,Darill,Chatfield,dchatfieldm@google.nl,Lung,70,false,true,true,false
+24,Tish,Dixie,tdixien@youtu.be,Thyroid,84,true,true,false,false
+25,Robina,Titman,rtitmano@geocities.jp,Colon and Rectal,80,true,true,false,false
+26,Allyson,Jude,ajudep@yandex.ru,Endometrial,29,true,false,true,false
+27,Aile,Seary,asearyq@npr.org,Kidney,85,false,true,true,false
+28,Caryn,Ferrillo,cferrillor@illinois.edu,Leukemia,91,false,true,true,false
+29,Jeannine,Klebes,jklebess@examiner.com,Leukemia,32,true,false,true,false
+30,Moshe,McLelland,mmclellandt@sogou.com,Pancreatic,97,true,false,false,true
+31,Adiana,Hurler,ahurleru@samsung.com,Pancreatic,72,true,false,true,false
+32,Egbert,Lintin,elintinv@aol.com,Endometrial,33,true,true,true,false
+33,Filippa,Vedenyakin,fvedenyakinw@imageshack.us,Colon and Rectal,39,true,true,true,true
+34,Tammy,Bartomeu,tbartomeux@mail.ru,Non-Hodgkin Lymphoma,27,false,false,true,true
+35,Maurice,Brislawn,mbrislawny@mysql.com,Thyroid,62,true,true,true,true
+36,Winn,MacTrusty,wmactrustyz@nydailynews.com,Prostate,58,false,false,false,false
+37,Corbet,Saleway,csaleway10@addtoany.com,Leukemia,69,false,false,true,false
+38,Mirabel,Smeath,msmeath11@sourceforge.net,Pancreatic,7,true,false,true,true
+39,Loree,Biss,lbiss12@people.com.cn,Prostate,41,false,false,true,true
+40,Katrina,Castagneri,kcastagneri13@cnet.com,Melanoma,62,false,false,false,false
+41,Ilario,Godehard.sf,igodehardsf14@issuu.com,Pancreatic,68,true,false,true,true
+42,Burt,MacKerley,bmackerley15@bloglines.com,Colon and Rectal,27,false,true,false,true
+43,Anestassia,Gaither,agaither16@bing.com,Thyroid,40,false,false,false,true
+44,Klement,Seally,kseally17@icq.com,Kidney,30,false,false,true,true
+45,Aida,Beller,abeller18@com.com,Kidney,80,true,true,true,true
+46,Chester,Depke,cdepke19@princeton.edu,Colon and Rectal,9,false,true,true,false
+47,Charlotta,Grastye,cgrastye1a@surveymonkey.com,Leukemia,90,false,false,true,true
+48,Adrianne,Claesens,aclaesens1b@paypal.com,Lung,68,true,true,false,true
+49,Andrey,Cooney,acooney1c@chronoengine.com,Bladder,3,true,true,true,false
+50,Gabriel,Hylands,ghylands1d@chron.com,Melanoma,88,true,false,true,true
+51,Karrah,Tebbutt,ktebbutt1e@fotki.com,Endometrial,79,true,true,false,false
+52,Dew,Cornbell,dcornbell1f@squarespace.com,Prostate,97,true,false,true,true
+53,Cristionna,Basezzi,cbasezzi1g@blogspot.com,Liver,42,true,true,false,false
+54,Tuckie,Dougharty,tdougharty1h@soup.io,Pancreatic,20,false,true,true,true
+55,Baxie,Fawkes,bfawkes1i@edublogs.org,Endometrial,68,false,false,false,false
+56,Roby,Mollatt,rmollatt1j@angelfire.com,Liver,84,false,true,false,false
+57,Kelley,Rivel,krivel1k@list-manage.com,Leukemia,71,false,true,true,false
+58,Paul,Danihel,pdanihel1l@ehow.com,Lung,2,true,false,true,false
+59,Angele,Withur,awithur1m@hc360.com,Pancreatic,47,false,true,false,false
+60,Orion,Nerval,onerval1n@diigo.com,Non-Hodgkin Lymphoma,47,true,false,false,false
+61,Valerie,Catonne,vcatonne1o@dyndns.org,Thyroid,42,true,false,false,false
+62,Jeannine,Giffard,jgiffard1p@1688.com,Lung,76,false,true,false,false
+63,Sheridan,Swindell,sswindell1q@sogou.com,Liver,4,false,false,true,true
+64,Jean,Deathridge,jdeathridge1r@xrea.com,Pancreatic,15,false,true,true,false
+65,Silvester,Langthorne,slangthorne1s@parallels.com,Bladder,97,true,false,true,true
+66,Raimundo,Rounsefull,rrounsefull1t@infoseek.co.jp,Bladder,20,true,true,true,false
+67,Ellsworth,Basill,ebasill1u@amazon.de,Pancreatic,90,true,true,true,false
+68,Norry,Karsh,nkarsh1v@earthlink.net,Colon and Rectal,41,true,false,true,true
+69,Albina,Huard,ahuard1w@tinyurl.com,Endometrial,49,true,false,false,true
+70,Sibeal,Castagnasso,scastagnasso1x@digg.com,Prostate,45,true,true,true,false
+71,Phylis,Atcock,patcock1y@usa.gov,Pancreatic,99,false,true,true,false
+72,Emmey,Kik,ekik1z@slideshare.net,Colon and Rectal,41,true,true,true,false
+73,Orsa,Bagg,obagg20@amazon.co.jp,Bladder,63,true,false,false,true
+74,Sylvester,Stening,sstening21@devhub.com,Bladder,69,false,false,true,true
+75,Cece,Kenneford,ckenneford22@wikipedia.org,Non-Hodgkin Lymphoma,77,true,false,false,true
+76,Hakim,Kaaskooper,hkaaskooper23@myspace.com,Liver,56,true,false,false,false
+77,Antonetta,Corradino,acorradino24@macromedia.com,Leukemia,99,true,false,true,true
+78,Marisa,Delamere,mdelamere25@acquirethisname.com,Kidney,23,true,true,false,true
+79,Christan,Blackley,cblackley26@mozilla.com,Prostate,82,true,false,false,false
+80,Ki,Statersfield,kstatersfield27@merriam-webster.com,Prostate,38,false,false,false,true
+81,Fee,Chettle,fchettle28@prweb.com,Leukemia,62,false,false,true,false
+82,Rossie,Eddisford,reddisford29@ucla.edu,Leukemia,25,true,false,false,true
+83,Arri,Fedder,afedder2a@buzzfeed.com,Melanoma,53,false,false,true,true
+84,Maribelle,Bright,mbright2b@g.co,Lung,78,false,false,false,false
+85,Joleen,Tuer,jtuer2c@webnode.com,Endometrial,70,true,false,false,true
+86,Tony,Arp,tarp2d@nydailynews.com,Thyroid,74,false,false,true,false
+87,Vevay,Mitchelhill,vmitchelhill2e@bbc.co.uk,Lung,62,true,false,false,false
+88,Ward,Fetherston,wfetherston2f@hhs.gov,Non-Hodgkin Lymphoma,75,true,false,false,false
+89,Rivkah,McDowall,rmcdowall2g@upenn.edu,Thyroid,86,true,false,false,false
+90,Dacey,Dickins,ddickins2h@dailymotion.com,Endometrial,71,false,true,false,false
+91,Pavia,Carberry,pcarberry2i@reuters.com,Kidney,40,true,false,false,false
+92,Rolph,Wormleighton,rwormleighton2j@skype.com,Liver,86,true,false,false,false
+93,Farrel,Glassopp,fglassopp2k@nasa.gov,Non-Hodgkin Lymphoma,16,true,false,false,true
+94,Kaia,Chittim,kchittim2l@comcast.net,Kidney,49,true,false,true,false
+95,Prue,Olivet,polivet2m@cisco.com,Thyroid,78,true,false,false,false
+96,Brad,Timothy,btimothy2n@yolasite.com,Melanoma,100,true,true,false,false
+97,Lyndell,Ibberson,libberson2o@infoseek.co.jp,Prostate,43,true,false,false,true
+98,Hodge,Sandbrook,hsandbrook2p@pbs.org,Bladder,42,true,true,true,false
+99,Ardisj,Spalls,aspalls2q@ftc.gov,Pancreatic,34,false,false,true,false
+100,Carly,Nuzzetti,cnuzzetti2r@cnbc.com,Thyroid,73,false,false,false,true

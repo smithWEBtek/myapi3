@@ -1,3 +1,3 @@
 class PatientSerializer < ActiveModel::Serializer
-  attributes :id, :first_name, :last_name, :email, :scramble
+  attributes :id, :first_name, :last_name, :email
 end

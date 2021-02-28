@@ -9,4 +9,5 @@ class PatientsController < ApplicationController
     @patient = Patient.find(params[:id])
     render json: @patient
   end
+
 end
